@@ -20,5 +20,9 @@ E-Mail:
 QQ:
 - UID：BaLoongHK
 
+## Other Links - 相关链接
+- CnBlogs（博客园）: https://www.cnblogs.com/charolinAcherz
+- Bilibili：https://space.bilibili.com/513278616
+
 <p align="right">2024年10月6日</p>
 <p align="right">Acherz(LORENTZE) 于 江苏省，南京，玄武区</p>
